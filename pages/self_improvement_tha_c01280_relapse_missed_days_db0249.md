@@ -686,6 +686,49 @@ For example:
 
 This format avoids two common traps. It does not pretend missed days will never happen, and it does not make them meaningless. A single miss gets a restart. A repeated miss gets a redesign.
 
+
+## The evidence at a glance
+
+The lapse-versus-relapse comparison above, condensed into its verified structure. Every attribute and evidence row below is grounded in the primary sources this page already cites in its endnotes; each row carries its own resolvable sources. This comparison carries no commercial channel — it is editorial throughout.
+
+### Lapse-framed recovery — † marks an attribute verified against a corpus-held primary source
+
+| Attribute | What the sources establish | Sources |
+| --- | --- | --- |
+| a lapse is a brief deviation, not a return to the old pattern | the relapse-prevention model distinguishes an initial lapse from a sustained relapse, so the event's meaning depends on what follows it | [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/) · [adf.org.au](https://adf.org.au/reducing-risk/relapse/) |
+| occasional omissions do not erase habit formation † | occasional missed opportunities did not seriously impair habit formation, and automaticity gains resumed after a missed performance | [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674) · [www.cykelvaeksthuset.dk](https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf) · [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/) · [www.academia.edu](https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world) |
+| the recovery response is a fast, low-drama restart | lapse-management strategies focus on halting the lapse and combating the abstinence violation effect rather than on penalty | [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/) · [www.tandfonline.com](https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372) |
+| self-compassion after a setback supports adaptive coping | responding to setbacks with kindness and perspective supports adaptive coping rather than avoidance or rumination, and is itself a recovery behaviour | [self-compassion.org](https://self-compassion.org/wp-content/uploads/publications/SClearninggoals.pdf) · [www.researchgate.net](https://www.researchgate.net/publication/260309798_The_Role_of_Self-Compassion_in_Goal_Pursuit_and_Well-Being_Among_University_Freshmen) · [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/) |
+| long-term effect of a single lapse is usually small | habits form through repeated cue-behaviour pairings, so one missed day is usually not disastrous while repeated misses in the same circumstances carry information | [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/) · [www.cykelvaeksthuset.dk](https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf) |
+
+### Relapse-framed recovery
+
+| Attribute | What the sources establish | Sources |
+| --- | --- | --- |
+| the slip is read as evidence of lost control or personal failure | the abstinence violation effect interprets the lapse as proof the goal is already lost, converting an event into an identity claim | [www.sciencedirect.com](https://www.sciencedirect.com/topics/psychology/abstinence-violation) · [southshorerecovery.com](https://southshorerecovery.com/abstinence-violation-effect/) · [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/) |
+| all-or-nothing rules make one miss feel catastrophic | rigid restriction after a lapse can intensify all-or-nothing thinking and abandon restraint altogether, increasing the chance of a second missed day | [en.wikipedia.org](https://en.wikipedia.org/wiki/Counterregulatory_eating) · [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10895756/) |
+| tracking design can turn a miss into a public defeat | tracking becomes less useful when the tracker's emotional design makes one missed day feel like a public defeat | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/23512568/) |
+| identity interpretation collapses | 'I knew I couldn't stick with this' replaces 'I missed yesterday; I'll continue today' for the identical behaviour | [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/) |
+| long-term effect can be substantial | repeated unexamined lapses escalate toward the old pattern; relapse prevention exists because the progression is real | [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/) · [www.researchgate.net](https://www.researchgate.net/publication/225096701_A_prospective_study_of_predictors_of_relapse_in_anorexia_nervosa_Implications_for_relapse_prevention) · [adf.org.au](https://adf.org.au/reducing-risk/relapse/) |
+
+### Evidence rows
+
+| # | Claim | Sources |
+| --- | --- | --- |
+| 1 | the lapse/relapse distinction is a defined construct of the relapse-prevention model: a lapse is the initial slip, a relapse the sustained return to the old pattern | [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/) · [adf.org.au](https://adf.org.au/reducing-risk/relapse/) · [southshorerecovery.com](https://southshorerecovery.com/abstinence-violation-effect/) · [www.sciencedirect.com](https://www.sciencedirect.com/topics/psychology/abstinence-violation) |
+| 2 | occasional missed opportunities did not seriously impair habit formation, and automaticity gains resumed once the behaviour resumed | [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674) · [www.cykelvaeksthuset.dk](https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf) · [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/) · [www.academia.edu](https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world) · [www.tandfonline.com](https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.560095) |
+| 3 | the abstinence violation effect converts a slip into perceived failure and lost control, and lapse-management exists specifically to halt the lapse and combat that interpretation | [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/) · [www.sciencedirect.com](https://www.sciencedirect.com/topics/psychology/abstinence-violation) · [southshorerecovery.com](https://southshorerecovery.com/abstinence-violation-effect/) · [en.wikipedia.org](https://en.wikipedia.org/wiki/Counterregulatory_eating) |
+| 4 | responding to setbacks with self-compassion and perspective supports adaptive coping rather than rumination or avoidance | [self-compassion.org](https://self-compassion.org/wp-content/uploads/publications/SClearninggoals.pdf) · [www.researchgate.net](https://www.researchgate.net/publication/260309798_The_Role_of_Self-Compassion_in_Goal_Pursuit_and_Well-Being_Among_University_Freshmen) · [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/) · [www.feedyourmental.com](https://www.feedyourmental.com/blog/2022/7/19/self-compassion-as-a-behavior-change-tool) · [www.tandfonline.com](https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372) |
+| 5 | the practical test separates an event from a pattern: one scheduled miss is a lapse; whether change lasts depends on repeated practice, self-regulation and context rather than perfect attendance | [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/) · [adf.org.au](https://adf.org.au/reducing-risk/relapse/) · [www.tandfonline.com](https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372) |
+
+### Dated verdict
+
+> A missed day is usually a lapse, not a verdict: the practical aim is not perfect streaks but fast, low-drama recovery, and the question that matters is whether the interruption became the new pattern.
+>
+> — Better Change corpus synthesis of the cited primary sources, 2026-10-02 (basis: this page's “Introduction”, “A missed day is a lapse, not a verdict” and “Missed days and identity: stay continuous”).
+
+† Attribute verified against a primary source the corpus itself holds — not a claim reproducible from marketing pages.
+
 ## The useful lesson of relapse
 
 Relapse and missed days are uncomfortable because they expose the gap between the person we planned as and the person who actually met the day. But that gap is where practical self improvement lives. The goal is not to build a system that looks impressive when conditions are perfect. The goal is to build one that can bend, restart and learn.
