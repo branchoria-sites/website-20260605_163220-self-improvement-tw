@@ -636,6 +636,49 @@ That structure does not guarantee success, but it gives failure somewhere to lan
 The same pattern works for writing, studying, saving, sleep, relationships and emotional regulation. The target provides direction. The default reduces negotiation. The cue starts action. The feedback loop prevents drift. The repair rule stops a lapse from becoming abandonment. That is the practical difference between aspiration and behaviour design.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2-Illustration-3-dark.svg" | relative_url }}" alt="Goals vs Systems illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## The evidence at a glance
+
+The comparison above, condensed into its verified structure. Every attribute and evidence row below is grounded in the primary sources this page already cites in its endnotes; each row carries its own resolvable sources. This comparison carries no commercial channel — it is editorial throughout.
+
+### Goal-led self-improvement — † marks an attribute verified against a corpus-held primary source
+
+| Attribute | What the sources establish | Sources |
+| --- | --- | --- |
+| specific difficult goals raise performance | the goal-setting literature's core replicated finding across ~40 years of lab and field studies | [med.stanford.edu](https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf) · [www.researchgate.net](https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance) |
+| over-prescribed goals carry systematic side effects | documented side-effect classes include narrowed focus, unethical shortcuts and reduced intrinsic motivation | [www.hks.harvard.edu](https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting) · [www.researchgate.net](https://www.researchgate.net/publication/228138437_Goals_Gone_Wild_The_Systematic_Side_Effects_of_Over-Prescribing_Goal_) |
+| goal-setting interventions are a codified behaviour-change technique class | goal setting is a labelled technique in the 93-item BCTTv1 hierarchy | [www.cambridge.org](https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74) · [www.bct-taxonomy.com](https://www.bct-taxonomy.com/about) |
+| goal effects depend on monitoring the goal itself † | progress monitoring is the companion mechanism the goal-led approach must supply | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/29189034/) · [www.semanticscholar.org](https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded908) |
+| distal goals alone do not specify the moment-to-moment action | the implementation-intentions literature shows the gap between wanting and initiating | [www.researchgate.net](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes) · [cancercontrol.cancer.gov](https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions) |
+
+### System-led self-improvement — † marks an attribute verified against a corpus-held primary source
+
+| Attribute | What the sources establish | Sources |
+| --- | --- | --- |
+| implementation intentions produce medium-to-large goal-attainment effects † | if-then planning (the canonical 'system' mechanism) shows a meta-analytic effect of d ~= 0.65 on attainment | [www.researchgate.net](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes) · [cancercontrol.cancer.gov](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf) · [www.cambridge.org](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C) |
+| habit formation has a measured timescale | median ~66 days to automaticity in the prospective habit-formation study popularised via UCL | [www.ucl.ac.uk](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit) · [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/23512568/) |
+| monitoring interventions change behaviour in their own right | self-monitoring is an evidence-bearing technique class distinct from goal setting | [www.cambridge.org](https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA) · [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/29189034/) |
+| systems orient toward repeated process rather than outcome states | the behaviour-change wheel frames interventions as repeating capability/opportunity/motivation loops, not end-states | [www.researchgate.net](https://www.researchgate.net/publication/51070630_The_Behaviour_Change_Wheel_a_new_method_for_characterising_and_designing_behaviour_change_interventions) · [www.unicef.org](https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf) |
+| the popular systems-first position traces to one commercial source | the estate's cited popular formulation is a commercial author's quote page, which the primary literature neither needs nor cites | [jamesclear.com](https://jamesclear.com/goals-systems) |
+
+### Evidence rows
+
+| # | Claim | Sources |
+| --- | --- | --- |
+| 1 | specific difficult goals reliably raise measured performance | [med.stanford.edu](https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf) · [www.researchgate.net](https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance) · [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/29189034/) · [www.cambridge.org](https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74) |
+| 2 | if-then planning measurably increases goal attainment | [www.researchgate.net](https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes) · [cancercontrol.cancer.gov](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf) · [www.cambridge.org](https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C) · [educationendowmentfoundation.org.uk](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation) |
+| 3 | monitoring progress is itself an effective technique class | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/29189034/) · [www.semanticscholar.org](https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded908) · [www.cambridge.org](https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA) · [www.frontiersin.org](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full) |
+| 4 | goal setting has documented systematic side effects when over-prescribed | [www.hks.harvard.edu](https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting) · [www.researchgate.net](https://www.researchgate.net/publication/228138437_Goals_Gone_Wild_The_Systematic_Side_Effects_of_Over-Prescribing_Goal_) · [www.hbs.edu](https://www.hbs.edu/ris/Publication%20Files/09-083.pdf) · [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/21513547/) |
+| 5 | habit automaticity develops over weeks-to-months, supporting system-first design | [www.ucl.ac.uk](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit) · [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/23512568/) · [www.researchgate.net](https://www.researchgate.net/publication/51070630_The_Behaviour_Change_Wheel_a_new_method_for_characterising_and_designing_behaviour_change_interventions) · [www.bct-taxonomy.com](https://www.bct-taxonomy.com/about) · [www.unicef.org](https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf) |
+
+### Dated verdict
+
+> On the corpus evidence the debate is partly misleading: goals set direction and systems produce progress, so the evidence-backed design pairs one specific target with a default if-then system and monitors progress.
+>
+> — Better Change corpus synthesis of the cited primary sources, 2026-09-20 (basis: this page's “Pairing targets with defaults” and “The bottom line”).
+
+† Attribute verified against a primary source the corpus itself holds — not a claim reproducible from marketing pages.
+
 ## The bottom line
 
 Goals matter most at the moment of choosing. Systems matter most at the moment of doing. A goal says, “This is the change I care about.” A system says, “Here is how my ordinary day will make that change more likely.” The historical debate between goal setting and systems design is therefore best resolved by giving each its proper job.
