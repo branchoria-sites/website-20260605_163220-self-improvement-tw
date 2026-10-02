@@ -853,6 +853,49 @@ For long-term self-improvement, that difference is often the difference between 
 </script>
 </section>
 
+
+## The evidence at a glance
+
+The shame-versus-values comparison above, condensed into its verified structure. Every attribute and evidence row below is grounded in the primary sources this page already cites in its endnotes; each row carries its own resolvable sources. This comparison carries no commercial channel — it is editorial throughout.
+
+### Shame-based goals
+
+| Attribute | What the sources establish | Sources |
+| --- | --- | --- |
+| shame creates a strong desire for self-change | people frequently report making resolutions after feeling embarrassed, judged or behind others, and research finds shame can indeed spark the wish to change | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25401288/) · [www.psychologytoday.com](https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change) · [www.researchgate.net](https://www.researchgate.net/publication/268449831_Shame_and_the_Motivation_to_Change_the_Self) |
+| the regulation is controlled and introjected | behaviour is driven by internal pressure - avoiding shame, guilt, anxiety or low worth - rather than genuine endorsement of the goal | [www.sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0001879120300841) · [www.frontiersin.org](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987582/full) · [en.wikipedia.org](https://en.wikipedia.org/wiki/Self-determination_theory) |
+| shame and self-criticism link to distress and defensive coping | withdrawal, hiding or disengagement rather than constructive persistence is the documented coping pattern | [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11916919/) · [www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2666915325000204) |
+| striving is ego-involved and anxiety-associated | introjected motivation is the less self-determined form, associated with anxiety, guilt and shame pressure | [selfdeterminationtheory.org](https://selfdeterminationtheory.org/wp-content/uploads/2024/06/2024_WangWangEtAl_MetaEdu.pdf) · [www.researchgate.net](https://www.researchgate.net/publication/258029062_Shame_A_self-determination_theory_perspective) |
+| documented costs to self-esteem and well-being | meta-analytic work links shame to psychological distress and damaged self-evaluation rather than durable change | [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8768475/) · [www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0191886923002829) |
+
+### Values-based goals — † marks an attribute verified against a corpus-held primary source
+
+| Attribute | What the sources establish | Sources |
+| --- | --- | --- |
+| the goal is connected to a chosen value | 'I want to look after my health so I can stay active with my family' - connected to a chosen value rather than an attempt to escape self-rejection | [www.alliancecoaching.co.uk](https://www.alliancecoaching.co.uk/pdfs/ICPR-Goal-Self-Concordance.pdf) · [peercommunityjournal.org](https://peercommunityjournal.org/articles/10.24072/pcjournal.680/) · [www.frontiersin.org](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987582/full) |
+| autonomous motivation is more likely to be sustained | goals aligned with personal values are more autonomous and more likely to be sustained over time | [www.sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0001879120300841) · [www.frontiersin.org](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987582/full) · [positivepsychology.com](https://positivepsychology.com/self-determination-theory/) |
+| self-concordant striving predicts longitudinal well-being † | goal striving that satisfies basic psychological needs predicts well-being over time, beyond attainment itself | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/10101878/) · [selfdeterminationtheory.org](https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf) · [www.frontiersin.org](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full) · [www.researchgate.net](https://www.researchgate.net/publication/240333261_The_self-concordance_model_of_healthy_goal-striving_Wh) · [pure-oai.bham.ac.uk](https://pure-oai.bham.ac.uk/ws/files/10759361/2011_Smith_Ntoumanis_and_Duda._Goal_Striving_Coping_and_Wel) |
+| what happens after failure reveals the true motivation | when attainment alone cannot sustain need satisfaction, ego-involved goals show their cost exactly at the failure point | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/10101878/) · [www.frontiersin.org](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full) · [www.alliancecoaching.co.uk](https://www.alliancecoaching.co.uk/pdfs/ICPR-Goal-Self-Concordance.pdf) |
+| self-critical goals can be rewritten into chosen goals | compassionate, autonomy-supportive reframing of shame-driven goals is evidence-bearing practice rather than affirmation | [www.actwithcompassion.com](https://www.actwithcompassion.com/20_science_based_recommendations_for_therapy_with_highly_self_critical_or_shame_prone_clients) · [healthinfosource.com](https://healthinfosource.com/blog/beyond-punishment-case-compassionate-approaches-motivating-behavioral-change) · [www.rallisoncounseling.com](https://www.rallisoncounseling.com/depression-driven-self-criticism/) |
+
+### Evidence rows
+
+| # | Claim | Sources |
+| --- | --- | --- |
+| 1 | self-determination theory distinguishes controlled (shame/guilt-driven, introjected) motivation from autonomous motivation, and autonomy predicts sustained behaviour | [www.sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0001879120300841) · [open.ncl.ac.uk](https://open.ncl.ac.uk/theories/20/self-determination-theory/) · [www.frontiersin.org](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987582/full) · [en.wikipedia.org](https://en.wikipedia.org/wiki/Self-determination_theory) · [www.apa.org](https://www.apa.org/research-practice/conduct-research/self-determination-theory.html) |
+| 2 | shame can create a strong short-term desire for self-change; the lived experience of self-conscious emotions is well documented | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25401288/) · [www.psychologytoday.com](https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change) · [www.researchgate.net](https://www.researchgate.net/publication/268449831_Shame_and_the_Motivation_to_Change_the_Self) · [academic.oup.com](https://academic.oup.com/edited-volume/45638/chapter/396161642) |
+| 3 | shame and self-criticism are repeatedly linked to psychological distress, defensive coping and damaged self-evaluation, including meta-analytically | [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11916919/) · [www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2666915325000204) |
+| 4 | self-concordant goal striving predicts need satisfaction and longitudinal well-being, with effects beyond mere goal attainment | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/10101878/) · [selfdeterminationtheory.org](https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf) · [www.frontiersin.org](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full) · [www.researchgate.net](https://www.researchgate.net/publication/240333261_The_self-concordance_model_of_healthy_goal-striving_Wh) · [pure-oai.bham.ac.uk](https://pure-oai.bham.ac.uk/ws/files/10759361/2011_Smith_Ntoumanis_and_Duda._Goal_Striving_Coping_and_Wel) |
+| 5 | compassionate, autonomy-supportive reframing of self-critical, shame-driven goals is an evidence-bearing practice direction | [www.actwithcompassion.com](https://www.actwithcompassion.com/20_science_based_recommendations_for_therapy_with_highly_self_critical_or_shame_prone_clients) · [healthinfosource.com](https://healthinfosource.com/blog/beyond-punishment-case-compassionate-approaches-motivating-behavioral-change) · [www.rallisoncounseling.com](https://www.rallisoncounseling.com/depression-driven-self-criticism/) · [bestchoicecounselling.com](https://bestchoicecounselling.com/shame-vs-guilt-psychology-what-science-reveals-about-your-emotions/) · [selfdeterminationtheory.org](https://selfdeterminationtheory.org/wp-content/uploads/2024/06/2024_WangWangEtAl_MetaEdu.pdf) |
+
+### Dated verdict
+
+> Shame can start a change attempt, but the evidence base favours goals endorsed by chosen values: autonomous, self-concordant motivation sustains striving and protects well-being in a way shame-based pressure does not.
+>
+> — Better Change corpus synthesis of the cited primary sources, 2026-10-02 (basis: this page's “How shame creates urgency but raises emotional cost”, “Why values-based goals feel more self-endorsed” and “What happens after failure reveals the true motivation”).
+
+† Attribute verified against a primary source the corpus itself holds — not a claim reproducible from marketing pages.
+
 ## Endnotes
 
 1.<a id="endnote-1"></a>
