@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-10-02 18:29:48'
 level: 2
 basename: self_improvement_tha_c01280_goals_vs_systems_2478d2
 parent_basename: self_improvement_tha_c01280

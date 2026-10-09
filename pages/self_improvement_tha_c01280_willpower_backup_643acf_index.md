@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 title: Willpower Sub-Topic Index
 title_full: Willpower Sub-Topic Index
 display_title: Sub-Topic Index

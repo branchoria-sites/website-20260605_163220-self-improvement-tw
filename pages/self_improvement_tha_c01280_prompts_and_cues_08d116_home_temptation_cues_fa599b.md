@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:22:28'
 level: 3
 basename: self_improvement_tha_c01280_prompts_and_cues_08d116_home_temptation_cues_fa599b
 parent_basename: self_improvement_tha_c01280_prompts_and_cues_08d116

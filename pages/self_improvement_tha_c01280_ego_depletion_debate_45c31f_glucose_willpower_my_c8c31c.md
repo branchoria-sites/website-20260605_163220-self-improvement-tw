@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_ego_depletion_debate_45c31f_glucose_willpower_my_c8c31c
 parent_basename: self_improvement_tha_c01280_ego_depletion_debate_45c31f

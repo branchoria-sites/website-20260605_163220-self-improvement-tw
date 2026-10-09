@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_choice_architecture_214f66_recurring_booking_de_cc99a7
 parent_basename: self_improvement_tha_c01280_choice_architecture_214f66
