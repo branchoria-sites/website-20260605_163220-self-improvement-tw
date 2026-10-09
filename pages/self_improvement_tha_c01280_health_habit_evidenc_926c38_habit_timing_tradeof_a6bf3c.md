@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_timing_tradeof_a6bf3c
 parent_basename: self_improvement_tha_c01280_health_habit_evidenc_926c38

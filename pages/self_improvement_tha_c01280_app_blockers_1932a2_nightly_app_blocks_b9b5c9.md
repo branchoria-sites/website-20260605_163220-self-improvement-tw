@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9
 parent_basename: self_improvement_tha_c01280_app_blockers_1932a2

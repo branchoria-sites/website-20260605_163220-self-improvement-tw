@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:22:28'
 level: 3
 basename: self_improvement_tha_c01280_app_blockers_1932a2_distraction_pattern_a68713
 parent_basename: self_improvement_tha_c01280_app_blockers_1932a2

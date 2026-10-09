@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466
 parent_basename: self_improvement_tha_c01280_feedback_loops_fdc3b7

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:22:28'
 level: 3
 basename: self_improvement_tha_c01280_phone_out_bedroom_20e47b_kitchen_charging_sta_33fe0e
 parent_basename: self_improvement_tha_c01280_phone_out_bedroom_20e47b
