@@ -4,7 +4,7 @@ title_full: Accountability Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /self-improvement-tha-c01280/
+permalink: /self-improvement-tha-c01280-accountability/
 description: Focused pages that expand on Accountability.
 date: '2026'
 layout: default
