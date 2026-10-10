@@ -4,7 +4,7 @@ title_full: Automaticity Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /self-improvement-tha-c01280-habit/
+permalink: /self-improvement-tha-c01280-habit-automaticity/
 description: Focused pages that expand on Automaticity.
 date: '2026'
 layout: default
