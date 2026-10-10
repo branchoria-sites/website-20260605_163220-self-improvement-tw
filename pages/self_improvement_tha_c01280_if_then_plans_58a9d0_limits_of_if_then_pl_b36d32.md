@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32
 parent_basename: self_improvement_tha_c01280_if_then_plans_58a9d0

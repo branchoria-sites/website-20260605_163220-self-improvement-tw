@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8
 parent_basename: self_improvement_tha_c01280_false_progress_cb1a89

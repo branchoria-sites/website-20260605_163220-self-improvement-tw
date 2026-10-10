@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:22:28'
 level: 2
 basename: self_improvement_tha_c01280_ego_depletion_debate_45c31f
 parent_basename: self_improvement_tha_c01280

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_self_help_myths_5ac0eb_quick_fix_blame_d36fbc
 parent_basename: self_improvement_tha_c01280_self_help_myths_5ac0eb

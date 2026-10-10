@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-10-02 19:00:21'
 level: 3
 basename: self_improvement_tha_c01280_motivation_quality_744dd4_shame_vs_values_goal_f3526a
 parent_basename: self_improvement_tha_c01280_motivation_quality_744dd4

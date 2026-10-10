@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:22:28'
 level: 3
 basename: self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59
 parent_basename: self_improvement_tha_c01280_choice_architecture_214f66

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_habit_automaticity_947f0e_protect_habits_durin_c8fb26
 parent_basename: self_improvement_tha_c01280_habit_automaticity_947f0e

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6
 parent_basename: self_improvement_tha_c01280_environment_design_133edb

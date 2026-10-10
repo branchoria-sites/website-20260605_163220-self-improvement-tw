@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_ego_depletion_debate_45c31f_willpower_tank_myth_d77412
 parent_basename: self_improvement_tha_c01280_ego_depletion_debate_45c31f

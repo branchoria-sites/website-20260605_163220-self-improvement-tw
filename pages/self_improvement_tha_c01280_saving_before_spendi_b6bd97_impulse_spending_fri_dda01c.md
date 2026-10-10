@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c
 parent_basename: self_improvement_tha_c01280_saving_before_spendi_b6bd97

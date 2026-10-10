@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:22:28'
 level: 3
 basename: self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9
 parent_basename: self_improvement_tha_c01280_study_before_scrolli_78a723

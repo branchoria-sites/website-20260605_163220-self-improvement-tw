@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:05:40'
 level: 3
 basename: self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126
 parent_basename: self_improvement_tha_c01280_environment_design_133edb
