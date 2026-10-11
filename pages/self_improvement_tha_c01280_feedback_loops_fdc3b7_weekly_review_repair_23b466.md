@@ -27,8 +27,8 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 - /feedback/
 nav_short_title: Weekly Reviews
-title: The Weekly Review That Fixes the Plan
-title_full: The Weekly Review That Fixes the Plan
+title: "The Weekly Review That Fixes the Plan (weekly reviews)"
+title_full: "The Weekly Review That Fixes the Plan (weekly reviews)"
 display_title_short: Weekly Reviews
 display_title: Weekly Reviews
 heading_title: The Weekly Review That Fixes the Plan
