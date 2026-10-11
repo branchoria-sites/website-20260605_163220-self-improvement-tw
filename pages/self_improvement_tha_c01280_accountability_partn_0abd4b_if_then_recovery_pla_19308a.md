@@ -903,7 +903,7 @@ That shift turns missed sessions from decision points into rehearsed situations.
 
 32.<a id="endnote-32"></a>
    Source: nhs.uk  
-   Link:<a href="https://www.nhs.uk/live-well/addiction-[support" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/addiction-[support</a>  
+   Link:https://www.nhs.uk/live-well/addiction-[support  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>addiction: getting helpIf you have a problem with drugs, there&#x27;s a wide range of services that can help...</p></details>
 
 33.<a id="endnote-33"></a>
