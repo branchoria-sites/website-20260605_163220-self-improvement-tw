@@ -65,8 +65,8 @@ permalink: /weekly-review/
 sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Weekly Review
-title: The Weekly Review That Fixes the Plan
-title_full: The Weekly Review That Fixes the Plan
+title: "The Weekly Review That Fixes the Plan (weekly review)"
+title_full: "The Weekly Review That Fixes the Plan (weekly review)"
 display_title_short: Weekly Review
 display_title: Weekly Review
 heading_title: The Weekly Review That Fixes the Plan
